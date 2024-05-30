@@ -39,13 +39,14 @@ public class ExemploFor {
     public static void vetorDois(String[] args) {
         String alunos [] =  {"FELIPE","JONAS","JULIA","MARCOS"};
         
-            //Forma abreviada
-        for(String aluno : alunos) {
-          System.out.println(alunos);
+        //Forma abreviada
+        for (String aluno : alunos) {
+          System.out.println(aluno);
         }
+
         /*
         String aluno : alunos -> De forma abreviada, é criada uma variável nome obtendo um elemento do vetor a cada ocorrência;
         A impressão de cada aluno é realizada.
-         */
+        */
     }
 }

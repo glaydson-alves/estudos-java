@@ -32,4 +32,5 @@ A instrução
 `finally`
 , permite definir um bloco de código a ser executado, independente de ocorrer um erro ou não. As palavras-chave try e catch vem em pares:
 
-Estrutura de um bloco com try e catch:
+## Hierarquia das exceções
+A linguagem Java, dispõe de uma variedade de classes, que representam exceções e estas classes, são organizadas em uma hierarquia denominadas ``Checked and Unchecked Exceptions`` ou ``Exceções Checadas e Não Checadas.``
